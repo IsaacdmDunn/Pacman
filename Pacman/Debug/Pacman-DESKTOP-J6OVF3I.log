@@ -1,0 +1,27 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message : see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\include\vector(1706): message :         ]
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message :         with
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message :         [
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): message :         ]
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(67,19): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(77,17): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(77,17): warning C4154: deletion of an array expression; conversion to pointer supplied
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(113,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(112,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(200,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(212,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(230,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\other\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(231,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> D:\other\PacmanFramework(S2Dv1.5)\Pacman\Debug\Pacman.exe

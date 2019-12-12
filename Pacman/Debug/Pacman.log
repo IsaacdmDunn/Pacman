@@ -1,0 +1,92 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pacman-DESKTOP-J6OVF3I.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(217): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(225): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(233): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(241): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(257): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(257): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(258): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(258): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(259): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(259): warning C4154: deletion of an array expression; conversion to pointer supplied
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(322): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(330): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(331): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(338): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(339): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(345): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(346): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(353): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(354): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(361): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(362): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(369): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(370): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(377): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(378): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(467): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(468): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(619): warning C4552: '!': result of expression not used
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(681): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(682): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(779): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(780): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(793): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(794): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(795): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(796): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(802): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(803): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(804): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(805): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(860): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(861): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(862): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(863): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(869): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(870): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(871): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(872): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(896): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(897): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(898): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(899): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(905): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(906): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(907): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(908): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(945): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(946): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(947): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(948): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(954): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(955): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(956): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(957): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1009): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1010): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1011): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1012): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1018): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1019): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1020): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\PacmanFramework(S2Dv1.5)\Pacman\Pacman\Pacman.cpp(1021): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> E:\PacmanFramework(S2Dv1.5)\Pacman\Debug\Pacman.exe
